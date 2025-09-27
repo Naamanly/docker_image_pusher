@@ -15,4 +15,5 @@ jenkins/jenkins:lts
 jenkins/jenkins:jdk17
 apache/shardingsphere-proxy:latest
 quay.io/minio/minio:latest
+minio/minio:RELEASE.2025-04-22T22-12-26Z
 nginx:1.29.0
