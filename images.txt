@@ -4,6 +4,7 @@ redis:6.2.7
 alpine:3.16
 mongo:4.4.17
 openjdk:8
+openjdk:17
 seataio/seata-server:1.5.1
 nacos/nacos-server:v2.1.0
 apache/rocketmq:4.9.3
