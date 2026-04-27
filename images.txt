@@ -2,7 +2,7 @@ alpine:3.16
 nginx:1.29.0
 nginx
 redis:6.2.7
-redis:7.4.2
+redis:7.4.8
 mongo:4.4.17
 mongo:6.0.26
 amazoncorretto:8
