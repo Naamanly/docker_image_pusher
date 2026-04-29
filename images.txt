@@ -8,8 +8,8 @@ mongo:6.0.26
 amazoncorretto:8
 amazoncorretto:17
 seataio/seata-server:1.5.1
-apache/seata-server:2.5.0
-apache/seata-naming-server:2.5.0
+apache/seata-server:2.5.0.jdk17
+apache/seata-naming-server:2.5.0.jdk17
 nacos/nacos-server:v2.1.0
 nacos/nacos-server:v3.0.3
 apache/rocketmq:4.9.3
