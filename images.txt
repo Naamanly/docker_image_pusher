@@ -2,6 +2,7 @@ alpine:3.16
 nginx:1.29.0
 nginx
 docker.io/jc21/nginx-proxy-manager
+mysql:8.4.9
 redis:6.2.7
 redis:7.4.8
 mongo:4.4.17
