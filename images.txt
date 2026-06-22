@@ -5,15 +5,15 @@ docker.io/jc21/nginx-proxy-manager
 mysql:8.4.9
 redis:6.2.7
 redis:7.4.8
+redis/redis-stack:7.4.0-v8
 mongo:4.4.17
 mongo:6.0.26
 amazoncorretto:8
 amazoncorretto:17
-seataio/seata-server:1.5.1
 apache/seata-server:2.5.0.jdk17
 apache/seata-naming-server:2.5.0.jdk17
 nacos/nacos-server:v2.1.0
-nacos/nacos-server:v3.0.3
+nacos/nacos-server:v3.1.1
 apache/rocketmq:4.9.3
 apache/rocketmq:5.3.1
 apacherocketmq/rocketmq-dashboard:1.0.0
